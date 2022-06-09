@@ -1,0 +1,17 @@
+.bg-container {
+  display: flex;
+  justify-content: center;
+  padding: 20px;
+  background-image: linear-gradient(to bottom, white, black);
+  height: 100vh;
+}
+
+.video-title-list-container {
+  padding: 0px;
+  width: 30%;
+}
+
+.class-video {
+  margin-top: 15px;
+  width: 70%;
+}
